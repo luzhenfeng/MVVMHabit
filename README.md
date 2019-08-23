@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 最新日志
 **v3.0.7：2019年1月25日**
 
@@ -793,3 +794,7 @@ ImageUtils.compressWithRx(filePaths, new Subscriber() {
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+# MVVMHabit
+MVVM模式
+>>>>>>> d18fcca5946ac3924b8e23f2fdefb1d6c4422516
